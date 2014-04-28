@@ -34,7 +34,7 @@
     })
     jasmineEnv.addReporter(consoleReporter)
 
-  something = 4
+
 
   #
   # jasmine.rice = {}
